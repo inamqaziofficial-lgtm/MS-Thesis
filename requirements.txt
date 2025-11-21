@@ -1,0 +1,8 @@
+streamlit
+joblib
+tldextract
+python-whois
+dnspython
+publicsuffix2
+requests
+scikit-learn
